@@ -1,0 +1,7 @@
+GSE67835/raw_cells/
+GSE67835/*.tar
+GSE67835/*.gz
+GSE67835/*.rds
+.Rhistory
+.RData
+.Rproj.user
